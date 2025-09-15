@@ -29,8 +29,8 @@ int main()
 {
 	laptop obj1("HP", " blue", 2000);
 	obj1.Print();
-	laptop obj2("lenovo", "yellow", 2000);
+	laptop obj2("lenovo", "yellow", 3000);
 	obj2.Print();
-	laptop obj3("Apple", "green ", 2000);
+	laptop obj3("Apple", "green ", 6000);
 	obj3.Print();
 }
